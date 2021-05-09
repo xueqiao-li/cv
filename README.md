@@ -3,7 +3,7 @@ _Doctoral student based in Department of Psychology, University of Jyväskylä, 
 
 
 ### **Personal details and the data of the CV:**
-- Email: Xueqiao.x.li@jyu.fi
+- Email: xueqiao.x.li@jyu.fi
 - ORCID: 0000-0003-1053-667X
 - Date of the CV: 23.02.2021
 
