@@ -21,7 +21,7 @@ _Doctoral student based in Department of Psychology, University of Jyväskylä, 
 - DOMINO software training “Analysis of respiration during sleep”, Department of Psychology, University of Jyväskylä, 2019
 - DOPSY doctoral student symposium "Psychology and Philosophy of the Mind", Turku, 2018
 - DOPSY doctoral student symposium " Research Methodologies in Psychology", Tartu, 2017
-- Acquired MEG driving license in September of 2015, University of Jyväskylä
+- Acquired MEG driving license, University of Jyväskylä, Sep 2015
 
 ### **Language skills:**
 - Chinese: Native
