@@ -1,7 +1,6 @@
-### **Xueqiao Li's CV** :woman: :brain:
+# **Xueqiao Li**
 _Doctoral student based in Department of Psychology, University of Jyväskylä, Finland_
 
-# **Xueqiao Li**
 
 ### **Personal details and the data of the CV:**
 - Email: Xueqiao.x.li@jyu.fi
