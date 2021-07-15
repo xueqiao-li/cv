@@ -5,7 +5,7 @@ _Doctoral student based in Department of Psychology, University of Jyväskylä, 
 ### **Personal details and the data of the CV:**
 - Email: xueqiao.x.li@jyu.fi
 - ORCID: 0000-0003-1053-667X
-- Date of the CV: 23.02.2021
+- Date of the CV: 15.07.2021
 
 ### **Degrees:**
 - **The University of York**, York, the United Kingdom (Oct 2011-Jan 2013)
@@ -43,7 +43,8 @@ _Doctoral student based in Department of Psychology, University of Jyväskylä, 
 
 ### **Research outputs:**
 #### _Six publications in total during the doctoral study._
-- Xu, Q., Ye, C., Hamalainen, J., Ruohonen, E.M., **Li, X.**, Astikainen, P. (in press). Magnetoencephalography responses to unpredictable and predictable rare somatosensory stimuli in healthy adult humans. Frontiers in Human Neuroscience
+- **Li, X.**, Zhu, Y., Vuoriainen, E., Ye, C., & Astikainen, P. (2021). Decreased intersubject synchrony in dynamic valence ratings of sad movie contents in dysphoric individuals. Scientific Reports, 11(1), 14419. 
+- Xu, Q., Ye, C., Hämäläinen, J. A., Ruohonen, E. M., **Li, X.**, & Astikainen, P. (2021). Magnetoencephalography Responses to Unpredictable and Predictable Rare Somatosensory Stimuli in Healthy Adult Humans. Frontiers in Human Neuroscience, 15, 120.
 - **Li, X.**, Pesonen, J., Haimi, E., Wang, H., & Astikainen, P. (2020). Electrical brain activity and facial electromyography responses to irony in dysphoric and non-dysphoric participants. Brain and Language, 211, 104861
 - Ruohonen, E. M., Kattainen, S., **Li, X.**, Taskila, A. E., Ye, C., & Astikainen, P. (2020). Event-Related Potentials to Changes in Sound Intensity Demonstrate Alterations in Brain Function Related to Depression and Aging. Frontiers in Human Neuroscience. 
 - Xu, Q., Ruohonen, E.M., Ye, C., **Li, X.**, Kreegipuu, K., Stefanics, G., Luo, W. & Astikainen, P. (2018) Automatic processing of changes in facial emotions in dysphoria: A magnetoencephalography study. Front. Hum. Neurosci. 12:186.
@@ -54,8 +55,8 @@ _Doctoral student based in Department of Psychology, University of Jyväskylä, 
 - Courses: 
   - PSYA210 Bachelor's Thesis, supervision of thesis, 10 ECTS cr.
   - CIBA120 Experimental Methods in Neuroscience, teaching assistant, 5 ECTS.
-  - CIPA112 Psychology of Language, 3 ECTS.
-  - CIPA113 Bilingual development, 2 ECTS
+  - CIPA112 Psychology of Language, reading and grading the assignments, 3 ECTS.
+  - CIPA113 Bilingual development, reading and grading the assignments, 2 ECTS
 - Teacher certificate paper for senior high school in China, starting from 2011
 
 ### **Other merits:**
