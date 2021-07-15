@@ -47,9 +47,9 @@ _Doctoral student based in Department of Psychology, University of Jyväskylä, 
 - Xu, Q., Ye, C., Hämäläinen, J. A., Ruohonen, E. M., **Li, X.**, & Astikainen, P. (2021). Magnetoencephalography Responses to Unpredictable and Predictable Rare Somatosensory Stimuli in Healthy Adult Humans. Frontiers in Human Neuroscience, 15, 120.
 - **Li, X.**, Pesonen, J., Haimi, E., Wang, H., & Astikainen, P. (2020). Electrical brain activity and facial electromyography responses to irony in dysphoric and non-dysphoric participants. Brain and Language, 211, 104861
 - Ruohonen, E. M., Kattainen, S., **Li, X.**, Taskila, A. E., Ye, C., & Astikainen, P. (2020). Event-Related Potentials to Changes in Sound Intensity Demonstrate Alterations in Brain Function Related to Depression and Aging. Frontiers in Human Neuroscience. 
-- Xu, Q., Ruohonen, E.M., Ye, C., **Li, X.**, Kreegipuu, K., Stefanics, G., Luo, W. & Astikainen, P. (2018) Automatic processing of changes in facial emotions in dysphoria: A magnetoencephalography study. Front. Hum. Neurosci. 12:186.
 - Yan, R., Zhang, C., Spruyt, K., Wei, L., Wang, Z., Tian, L., **Li, X.**, Ristaniemi, T., Zhang, J., Cong, F. (2019). Multi-modality of polysomnography signals’ fusion for automatic sleep scoring. Biomedical Signal Processing and Control, 49, 14-23. 
-- Zhu, Y., **Li, X.**, Ristaniemi, T., & Cong, F. (2019). Measuring the Task Induced Oscillatory Brain Activity Using Tensor Decomposition. In ICASSP 2019 : Proceedings of the 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 8593-8597). IEEE. 
+- Zhu, Y., **Li, X.**, Ristaniemi, T., & Cong, F. (2019). Measuring the Task Induced Oscillatory Brain Activity Using Tensor Decomposition. In ICASSP 2019 : Proceedings of the 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 8593-8597). IEEE.
+- Xu, Q., Ruohonen, E.M., Ye, C., **Li, X.**, Kreegipuu, K., Stefanics, G., Luo, W. & Astikainen, P. (2018) Automatic processing of changes in facial emotions in dysphoria: A magnetoencephalography study. Front. Hum. Neurosci. 12:186. 
 
 ### **Teaching merits:**
 - Courses: 
