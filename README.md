@@ -1,5 +1,5 @@
 # **Xueqiao Li**
-_Doctoral student based in Department of Psychology, University of Jyväskylä, Finland_
+_PostDoc based in Department of Psychology, University of Jyväskylä, Finland_
 
 
 ### **Personal details and the data of the CV:**
