@@ -5,9 +5,12 @@ _Doctoral student based in Department of Psychology, University of Jyväskylä, 
 ### **Personal details and the data of the CV:**
 - Email: xueqiao.x.li@jyu.fi
 - ORCID: 0000-0003-1053-667X
-- Date of the CV: 10.05.2022
+- Date of the CV: 19.11.2022
 
 ### **Degrees:**
+- **University of Jyväskylä**, Jyväskylä, Finland (Sep 2015-Aug 2022)
+  - Department of Psychology  
+    - Doctor of Psychology
 - **The University of York**, York, the United Kingdom (Oct 2011-Jan 2013)
   - Department of Education  
     - Master of Arts in Teaching English to Speakers of Other Languages
@@ -74,4 +77,4 @@ _Doctoral student based in Department of Psychology, University of Jyväskylä, 
 - DOPSY doctoral student symposium " Research Methodologies in Psychology", Tartu, 2017
 - Acquired MEG driving license, University of Jyväskylä, Sep 2015
 - Software: Proficient in E-Prime, BrainVision Analyzer, BESA Statistics, IBM SPSS Statistics, Adobe Illustrator
-- Programming: Familiar with MATLAB, R, Python (e.g., MNE Python, Psychopy) 
+- Programming: Familiar with MATLAB, R, Python (e.g., MNE Python, PsychoPy) 
