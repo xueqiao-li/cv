@@ -46,7 +46,6 @@ _PostDoc based in Department of Psychology, University of Jyväskylä, Finland_
     - Research assistant in two Academy of Finland projects (PIs Professor Raimo Lappalainen and Dr. Piia Astikainen)
 
 ### **Research outputs:**
-#### _Eight publications in total during the doctoral study._
 - **Li, X.**, Zhu, Y., Vuoriainen, E., Ye, C., & Astikainen, P. (2021). Decreased intersubject synchrony in dynamic valence ratings of sad movie contents in dysphoric individuals. Scientific Reports, 11(1), 14419. 
 - Kangas, E. S., Vuoriainen, E., **Li, X.**, Lyyra, P., & Astikainen, P. (2021). Somatosensory Deviance Detection ERPs and Their Relationship to Analogous Auditory ERPs and Interoceptive Accuracy. Journal of Psychophysiology.
 - Xu, Q., Ye, C., Hämäläinen, J. A., Ruohonen, E. M., **Li, X.**, & Astikainen, P. (2021). Magnetoencephalography Responses to Unpredictable and Predictable Rare Somatosensory Stimuli in Healthy Adult Humans. Frontiers in Human Neuroscience, 15, 120.
